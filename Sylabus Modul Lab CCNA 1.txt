@@ -1,0 +1,17 @@
+
+Modul Lab CCNA 1::
+Link: https://github.com/amelcharolinesgn2/CCNA-1-Lab-v7
+Lab 1 	Install Cisco packet Tracer 				chapter-1 basic-switch-configuration		
+Lab 2 	Building a Simple Network				Chapter 2 Lab Building a Simple Network
+Lab 3	Introductory_Networking 				Chapter 2-2 Lab Introductory_Networking
+Lab 4	Investigating the TCP-IP and OSI Models in Action	Chapter 3 Lab Investigating the TCP-IP and OSI Models in Action
+Lab 5	Wired and Wireless NIC Information			Chapter 4 Lab Wired and Wireless NIC Information
+Lab 6	Viewing Network Device MAC Addresses			Chapter 5 Lab Viewing Network Device MAC Addresses
+Lab 7	Configure Initial Router Settings			Chapter 6 Lab Configure Initial Router Settings
+Lab 8	Configuring IPv6 Addressing				Chapter 7 Lab Configuring IPv6 Addressing
+Lab 9	Calculating IPv4 Subnets				Chapter 8 Lab Calculating IPv4 Subnets
+Lab 10 	Data-Communication-and-Networking			Chapter 9 Lab Data-Communication-and-Networking
+Lab 11
+Lab 12
+Lab 13
+
