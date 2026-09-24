@@ -15,3 +15,36 @@ Lab 11
 Lab 12
 Lab 13
 
+
+
+
+
+Laporan:
+
+
+1. Buatkan GDrive sendiri
+2. Structure Direktory 
+
+📁 My Drive
+├── 📁 Lab 1 Install Cisco packet Tracer 
+│   ├── 📁 Laporan Konfigurasi Cisco packet Tracer.docx 
+│   ├── 📁 link sources .....
+│   ├── 📁 File Pkt
+│   │   ├── 📁 Jaringan LAN.Pkt
+│   │   └── 📁 .....
+│   └── 📁 .....
+├── 📁 Lab 2 Building a Simple Network
+│   ├── 📁 Laporan
+│   ├── 📁 .....
+│   ├── 📁 File Pkt
+│   │   ├── 📁 BUS topology.Pkt atau BUS topology.zip
+│   │   └── 📁 Mail Server.pkt   atau Mail Server.zip
+│   └── 📁 .....
+├── 📁 Lab 3 Introductory_Networking 
+│   ├── 📁 Laporan
+│   ├── 📁 .....
+│   ├── 📁 File Pkt
+│   │   ├── 📁 BUS topology.Pkt atau BUS topology.zip
+│   │   └── 📁 Mail Server.pkt   atau Mail Server.zip
+│   └── 📁 .....
+etc
